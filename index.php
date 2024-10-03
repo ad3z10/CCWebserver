@@ -28,14 +28,14 @@
     <style>
         body {
             font-family: 'Roboto', sans-serif;
-            background-color: #fce4ec; /* Light pink background */
+            background-color: #e0f7fa; /* Light pastel blue background */
             color: #333;
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #f8bbd0; /* Pink shade */
+            background-color: #81d4fa; /* Light blue shade */
             color: white;
             padding: 20px;
             text-align: center;
@@ -57,7 +57,7 @@
         }
 
         .projects-section {
-            background-color: #f3e5f5; /* Light purple for contrast */
+            background-color: #b3e5fc; /* Light pastel blue for contrast */
             padding: 40px 20px;
             text-align: center;
         }
@@ -65,7 +65,7 @@
         .projects-section h2 {
             margin-bottom: 30px;
             font-size: 2em;
-            color: #6a1b9a; /* Purple for headings */
+            color: #0288d1; /* Darker blue for headings */
         }
 
         .map {
@@ -77,7 +77,7 @@
         }
 
         footer {
-            background-color: #f8bbd0;
+            background-color: #81d4fa;
             text-align: center;
             color: white;
             padding: 20px;
